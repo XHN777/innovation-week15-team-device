@@ -62,6 +62,8 @@ flutter run -d <你的设备ID>
 - [x] `flutter devices` 能看到真实 Android 设备
 - [x] `flutter run` 后手机屏幕显示本小组修改后的页面
 - [x] 应用能正常启动并支持热重载功能
+- [x] 热重启（Hot Restart）功能在真机上验证通过
+- [x] 应用在真机上能正常退出，无崩溃或 ANR 报告
 
 ---
 
